@@ -6,6 +6,8 @@ This project implements a "Split-Brain" SFU architecture that decouples signalin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<img width="1512" height="982" alt="Chat   Particpants" src="https://github.com/user-attachments/assets/dc1c3485-270c-4f04-849e-2ef9b5b6602f" />
+
 ---
 
 ## 🏗 System Architecture
